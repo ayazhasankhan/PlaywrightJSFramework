@@ -1,0 +1,15 @@
+module.exports = {
+  docExpressTab: 'DocExpress',
+  projectTemplateDrpdwn:'Select a project template',
+  projectUserQuota:'Project User Quota',
+  fileUserQuota:'File User Quota',
+  launchProject: '#launchProjectBtn',
+  next:'#nextBtn',
+  workflowAccordionDrpdwn:'//*[@id="workflowWrapperDiv"]/div/button',
+  selectAChannel:'//*[@id="select2-selectChannelhi-container"]/span',
+  UserManagementAccordionDrpdwn:'//*[@id="userManagementDiv"]/div/button',
+  automaticLaunch:'//*[@id="autoLaunchToggleColhi"]/div/div/div/label[2]',
+  projectIdOnManagerDashBoard: '//*[@id="managerProjectsDt"]/tbody/tr[1]/td[4]/span[1]',
+  projectIdOnEditorDashBoard: '//*[@id="editorProjectListDT"]/tbody/tr/td[3]/span[1]',
+  segmentLockingTogglehi:'[data-toggle="toggle"]',
+};
